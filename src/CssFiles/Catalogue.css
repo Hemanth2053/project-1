@@ -1,0 +1,31 @@
+.catalogue-cont{
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    flex-Direction:  column;
+}
+.sidebar-catcont{
+    display: flex;
+    flex-direction:row
+   
+}
+.sidebar-innercont{
+    height: 100vh;
+    width: 20%;
+}
+.feedbar-innercont{
+    height: 100vh;
+    width: 80%;   
+    display: flex;
+    flex-direction: column;
+}
+header{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: bold;
+    
+}
+.feedcatbarcont{
+    margin-top:  60px;
+    justify-content: space-around;
+}

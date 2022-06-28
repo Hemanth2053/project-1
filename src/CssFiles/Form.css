@@ -1,0 +1,71 @@
+.form-main{
+    height: 80vh;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    padding-top:40px;
+    padding-bottom:40px;
+    
+}
+
+.form-in{
+    display:flex;
+    flex-direction: row;
+    height: 70vh;
+    width: 100%;
+    padding-left: 100px;
+}
+h3{
+    text-align: start;
+    font-weight: bold;
+    font-style: inherit;
+}
+.form-login{
+    /* display:flex;
+    flex-direction: column; */
+    height: 70vh;
+    width: 50%;
+
+}
+.form-in-login{
+    display:flex;
+    flex-direction: column;
+    justify-content:start;
+    
+
+}
+.form-label{
+    text-align: start;
+}
+.form-input{
+    height: 30px;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+}
+p{
+    text-align: start;
+    font-weight: lighter;
+    font-family: fantasy;
+}
+.form-register{
+    display:flex;
+    flex-direction: column;
+    height: 70vh;
+    width: 50%;
+    padding-left: 100px;
+}
+.form-btn{
+    height: 40px;
+    width: 80px;
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+    background-color: blueviolet;
+    font-weight: bold;
+
+}

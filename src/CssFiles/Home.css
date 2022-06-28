@@ -1,0 +1,117 @@
+.home-main{
+    height:5px;
+}
+
+.nav-comp{
+    background-color: white;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.nav-typo{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.nav-typo{
+    
+    display: flex;
+    flex-Direction: row;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+.nav-head{
+    
+    display: flex;
+    flex-Direction: row;
+    
+    align-items: center;
+    padding-right: 120px;
+}
+.nav-icon-1{
+    margin-right: 15px;
+    margin-top: 5px;
+}
+.nav-head-title{
+    display: flex;
+    flex-direction: row;
+    
+}
+.nav-icon{
+    width: 15%;
+    display: flex;
+    flex-Direction: row;
+    justify-Content: space-evenly;
+    align-Items: "center";
+    padding-top: 30px;
+}
+.feed-main{
+    
+    padding-bottom: 20px;
+}
+.footercont{
+    line-break: loose;
+    height:250px;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+    
+}
+.foot-icon{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 20%;
+    padding-left: 20px;
+    padding-top: 30px;
+    justify-content: space-evenly;
+}
+.foot-1{
+    height:300px;
+    width:21%;
+    align-items: center;
+}
+h3{
+    font-size:bold;
+}
+.foot-2{
+    height:300px;
+    width:16%; 
+}
+.foot-3{
+    height:300px;
+    width:16%; 
+}
+.foot-4{
+    height:300px;
+    width:16%; 
+}
+.foot-5{
+    height:300px;
+    width:21%;  
+    justify-content: start;
+}
+.foot-input{
+    height:25px;
+    width:250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+}
+.foot-btn{
+    height:30px;
+    width:200px;
+    border: none;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
